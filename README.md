@@ -36,4 +36,6 @@ If you are developing a production application, we recommend using TypeScript wi
 ### 🌐 API Data Page
 ![API Screenshot](screenshots/Api.png)
 
-## 🚀 Live Demo
+## 🌐 Live Demo
+[Click here to view the deployed app](https://plp-react-assignment-5r5ve9tl5-jerome-s-projects-1189e974.vercel.app/)
+
